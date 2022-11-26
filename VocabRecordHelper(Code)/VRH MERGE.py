@@ -2,6 +2,7 @@
 # Created by Abyss_Seeker!
 # Modules used: built-in: [tkinter, os, json]; others: [requests, openpyxl]
 # Glhf
+# This is a file that merges the other 3 code. I used this simply for easier packaging into .exe
 
 import requests
 import json
